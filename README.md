@@ -23,3 +23,5 @@ You are welcome to use this data for research purposes. Please ensure that your 
 Due to GitHub's size limitations, we were unable to include the full set of images in this repository. Instead, the complete image dataset has been stored at the following location: URL_Link
 
 If you are interested in accessing the image dataset, please visit the above link to download the files.
+
+Here is the full sample image of "Chinese husband + Black wife" mentioned in this article: https://file.io/9k8OFDAHHsbP; here is the data for "Black husband + Chinese wife": https://file.io/7qJOMzrRe1Wh, https://file.io/PpfTbWNLTCOl, https://file.io/UxPEvCXARMVw
