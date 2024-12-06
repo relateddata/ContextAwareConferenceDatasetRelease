@@ -24,4 +24,4 @@ Due to GitHub's size limitations, we were unable to include the full set of imag
 
 If you are interested in accessing the image dataset, please visit the above link to download the files.
 
-Here is the full sample image of "Chinese husband + Black wife" mentioned in this article: https://file.io/9k8OFDAHHsbP; here is the data for "Black husband + Chinese wife": https://file.io/7qJOMzrRe1Wh, https://file.io/PpfTbWNLTCOl, https://file.io/UxPEvCXARMVw
+Here is the full sample image of "Chinese man + Black woman" mentioned in this article: https://file.io/9k8OFDAHHsbP; here is the data for "Black man + Chinese woman": https://file.io/7qJOMzrRe1Wh, https://file.io/PpfTbWNLTCOl, https://file.io/UxPEvCXARMVw, https://file.io/wAaczKKqUs4M, https://file.io/lvnKKyadhPLF
