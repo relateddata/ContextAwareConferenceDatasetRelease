@@ -1,6 +1,6 @@
 # Web for Good Conference Dataset Release
 
-This repository contains de-identified data related to the Web for Good conference paper. The dataset has been processed to ensure the privacy of all individuals involved. We are sharing it here to promote transparency and enable further research in the field.
+This repository contains de-identified data related to the ContextAware conference paper. The dataset has been processed to ensure the privacy of all individuals involved. We are sharing it here to promote transparency and enable further research in the field.
 
 ## Files Included
 
