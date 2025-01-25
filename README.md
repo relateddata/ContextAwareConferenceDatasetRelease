@@ -4,7 +4,7 @@ This repository contains de-identified data related to the ContextAware conferen
 
 ## Files Included
 
-comments_with_label_all_sampled.csv: This file contains a 10% randomly sampled portion of the de-identified data. It includes:
+comments_with_label_all_sampled_with_video.csv: This file contains a 10% randomly sampled portion of the de-identified data. It includes:
 
 - Video tags
 - Textual content
