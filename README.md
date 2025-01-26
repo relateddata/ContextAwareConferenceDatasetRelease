@@ -28,6 +28,16 @@ Accuracy: 0.8893
 F1 Score: 0.8827
 MMAE: 0.1107
 
+### Sentiment type: Negative
+
+Number of videos: 10
+Total comments: 26,390
+
+### Sentiment type: Positive
+
+Number of videos: 10
+Total comments: 22,649
+
 
 ## Dataset Description
 
