@@ -53,7 +53,7 @@ Due to GitHub's size limitations, we were unable to include the full set of imag
 
 If you are interested in accessing the image dataset, please visit the above link to download the files.
 
-Here is the full sample image of "Chinese man + Black woman" mentioned in this article: https://file.io/9k8OFDAHHsbP; here is the data for "Black man + Chinese woman": https://file.io/7qJOMzrRe1Wh, https://file.io/PpfTbWNLTCOl, https://file.io/UxPEvCXARMVw, https://file.io/wAaczKKqUs4M, https://file.io/lvnKKyadhPLF
+Here is the sample image of "Chinese man + Black woman" and "Black man + Chinese woman": https://limewire.com/d/fdd7cc23-08a5-4fd4-8f46-9d0368ff55de#0QmQpEiWry8fCQR5qFhYaD_h4n6x9aPgqa6pbb_e6_A
 
 
 # Guidelines for Annotating Harmful vs. Non-Harmful Images in Comments
