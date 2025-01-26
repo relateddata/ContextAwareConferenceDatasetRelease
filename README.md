@@ -10,6 +10,25 @@ comments_with_label_all_sampled_with_video.csv: This file contains a 10% randoml
 - Textual content
 - Image URLs
 
+### Evaluation results for the tag "Zhongnan Syndrome":
+
+Number of samples: 411
+Number of harmful samples: 319
+Number of non-harmful samples: 92
+Accuracy: 0.9684
+F1 Score: 0.9539
+MMAE: 0.0316
+
+### Evaluation results for the tag "Misogyny and Misandry":
+
+Number of samples: 804
+Number of harmful samples: 529
+Number of non-harmful samples: 275
+Accuracy: 0.8893
+F1 Score: 0.8827
+MMAE: 0.1107
+
+
 ## Dataset Description
 
 The data has been carefully curated to preserve anonymity while maintaining the integrity required for meaningful research. The comments_sampled.csv file is a representative subset and can be used to replicate some analyses or explore additional research directions.
